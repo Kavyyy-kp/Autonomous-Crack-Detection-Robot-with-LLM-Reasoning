@@ -10,7 +10,7 @@ By integrating perception, reasoning, and control into a unified architecture, t
 
 ---
 
-## Key Features
+## Features
 
 ### Computer Vision-Based Crack Detection
 
